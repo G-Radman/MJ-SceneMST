@@ -20,7 +20,7 @@ import requests
 # -------------------------------------------------------------------------
 image_resolution = "1024x1024"          # Options: "612x612", "800x800", "1024x1024"
 sets_to_grab = [1, 2, 3, 4, 5]          # Example: [1, 2, 3, 4, 5]
-output_base = r"C:\Users\gu7563ni\Local\test"  # Local path to store downloaded images
+output_base = r"ADD-PATH-HERE"  # Local path to store downloaded images
 
 # GitHub repo info
 github_user = "G-Radman"
