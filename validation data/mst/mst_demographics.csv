@@ -1,0 +1,97 @@
+ID,Group,Age,Sex,Ethnicity,Country of birth,Country of residence,Nationality
+OA_1,OA,62,Male,White,United States,United States,United States
+OA_1,OA,64,Male,White,United States,United States,United States
+OA_1,OA,68,Male,Black,United States,United States,United States
+OA_1,OA,68,Female,White,United States,United States,United States
+OA_1,OA,84,Male,White,United States,United States,United States
+OA_1,OA,65,Female,White,United States,United States,United States
+OA_1,OA,75,Female,White,Australia,Australia,Australia
+OA_1,OA,75,Female,Black,South Africa,South Africa,South Africa
+OA_1,OA,75,Female,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,64,Female,White,Italy,Greece,United States
+OA_1,OA,76,Male,White,United States,United States,United States
+OA_1,OA,74,Female,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,75,Male,White,United States,United States,United States
+OA_1,OA,73,Male,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,65,Female,Black,South Africa,South Africa,South Africa
+OA_1,OA,61,Male,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,69,Female,Black,South Africa,South Africa,South Africa
+OA_1,OA,62,Female,DATA_EXPIRED,United States,United States,United States
+OA_1,OA,61,Male,White,Australia,United Kingdom,United Kingdom
+OA_1,OA,70,Female,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,69,Male,White,Greece,Greece,Greece
+OA_1,OA,77,Female,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,81,Female,Black,South Africa,South Africa,South Africa
+OA_1,OA,67,Male,White,Italy,Italy,Italy
+OA_1,OA,79,Male,White,South Africa,United Kingdom,South Africa
+OA_1,OA,74,Male,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,74,Male,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,73,Female,White,Hungary,Hungary,Hungary
+OA_1,OA,78,Male,White,United States,United States,United States
+OA_1,OA,69,Male,White,United States,United States,United States
+OA_1,OA,75,Male,White,United States,United States,United States
+OA_1,OA,77,Female,Black,South Africa,South Africa,South Africa
+OA_1,OA,60,Female,White,United States,United States,United States
+OA_1,OA,66,Female,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,63,Male,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,74,Female,White,United Kingdom,United Kingdom,United Kingdom
+OA_1,OA,62,Female,Black,United States,United States,United States
+OA_1,OA,61,Male,White,France,France,France
+OA_1,OA,77,Male,White,United States,United States,United States
+OA_1,OA,75,Male,White,United States,United States,United States
+OA_1,OA,61,Male,White,Portugal,Portugal,Portugal
+OA_1,OA,64,Female,Mixed,Japan,United States,United States
+OA_1,OA,75,Female,White,United States,United States,United States
+OA_1,OA,66,Male,White,New Zealand,New Zealand,New Zealand
+OA_1,OA,65,Female,White,Canada,Canada,Canada
+OA_1,OA,79,Male,White,Germany,United States,United States
+OA_1,OA,76,Female,White,United States,United States,United States
+OA_1,OA,85,Female,White,United States,United States,United States
+OA_1,OA,69,Male,White,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,29,Female,White,Netherlands,Netherlands,Netherlands
+YA_1,YA,29,Female,White,United States,United States,United States
+YA_1,YA,29,Male,DATA_EXPIRED,United States,United States,United States
+YA_1,YA,34,Female,White,United States,United States,United States
+YA_1,YA,23,Female,Black,Nigeria,United Kingdom,Nigeria
+YA_1,YA,23,Female,Black,South Africa,South Africa,South Africa
+YA_1,YA,19,Male,White,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,27,Male,Black,Nigeria,United Kingdom,Nigeria
+YA_1,YA,35,Male,White,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,25,Female,Black,South Africa,South Africa,South Africa
+YA_1,YA,22,Male,White,Hungary,Hungary,Hungary
+YA_1,YA,25,Male,White,Albania,United Kingdom,Greece
+YA_1,YA,31,Male,White,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,26,Male,Black,South Africa,South Africa,South Africa
+YA_1,YA,29,Female,Black,South Africa,South Africa,South Africa
+YA_1,YA,28,Male,Black,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,25,Male,Asian,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,30,Female,Black,Nigeria,United Kingdom,Nigeria
+YA_1,YA,22,Male,Black,South Africa,South Africa,South Africa
+YA_1,YA,24,Female,Black,South Africa,South Africa,South Africa
+YA_1,YA,25,Female,Mixed,South Africa,South Africa,South Africa
+YA_1,YA,23,Female,Asian,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,22,Female,Black,South Africa,South Africa,South Africa
+YA_1,YA,33,Male,White,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,34,Female,Other,Saint Helena,United Kingdom,United Kingdom
+YA_1,YA,28,Male,Black,Nigeria,United Kingdom,Nigeria
+YA_1,YA,26,Male,Black,South Africa,South Africa,South Africa
+YA_1,YA,27,Female,Black,Kenya,Kenya,Kenya
+YA_1,YA,30,Female,White,United States,Germany,United States
+YA_1,YA,21,Female,Black,South Africa,South Africa,South Africa
+YA_1,YA,34,Male,White,Finland,Finland,Finland
+YA_1,YA,33,Male,White,Finland,Finland,Finland
+YA_1,YA,34,Female,White,Poland,Poland,Poland
+YA_1,YA,24,Female,White,Portugal,Portugal,Portugal
+YA_1,YA,25,Male,Black,Nigeria,United Kingdom,Nigeria
+YA_1,YA,25,Male,Asian,United States,United States,United States
+YA_1,YA,29,Female,White,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,32,Male,White,Poland,Poland,Poland
+YA_1,YA,21,Female,White,France,France,France
+YA_1,YA,26,Female,White,Portugal,Portugal,Portugal
+YA_1,YA,33,Male,White,Germany,Germany,Germany
+YA_1,YA,20,Male,Asian,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,33,Female,Asian,India,United Kingdom,India
+YA_1,YA,26,Male,Black,South Africa,South Africa,South Africa
+YA_1,YA,29,Male,White,United Kingdom,United Kingdom,United Kingdom
+YA_1,YA,23,Female,White,Poland,Poland,Poland
+YA_1,YA,27,Female,Black,Nigeria,United Kingdom,Nigeria
